@@ -27,7 +27,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 char auth[] = BLYNK_AUTH_TOKEN;
 
 char ssid[] = "Wifi Home";  // type your wifi name
-char pass[] = " 8928236953";  // type your wifi password
+char pass[] = "8928236953";  // type your wifi password
 
 int smokeA0 = A0;
 int data = 0;
